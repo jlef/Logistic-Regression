@@ -9,4 +9,4 @@ In this example I attempt to predict defaults by:
 - Assessing the performance analysis of the model
 
 To view the results run the file 'linear.R' in the '/code' directory.
-To view the shiny report run the application in the '/code/app' directory. Example screen shots of the report can be found in the '/screen dumps' directory.
+To view the shiny report first run the 'linear.R' file and then run the application in the '/code/app' directory. Example screen shots of the report can be found in the '/screen dumps' directory.
