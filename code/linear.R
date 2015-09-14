@@ -1,4 +1,5 @@
-setwd("C:/Users/ARCHER/Desktop/funding circle/code")
+###CHANGE THE PATH###
+setwd("...Logistic-Regression/code")
 
 #install.packages('caret')
 library(caret) #predictive model tools (used data splitting, feature selection etc.)
